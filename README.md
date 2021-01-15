@@ -3,7 +3,7 @@ App name : Annotated honey Bee Classifier
 
 Description: An app which can differentiate between some honey bee species.
 
-Type of app: Standalone 
+Type of app: Web app
 
 Main features:
 
